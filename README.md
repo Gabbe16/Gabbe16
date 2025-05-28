@@ -6,7 +6,7 @@ I'm a technical college graduate with a passion for software development and sol
 Currently available for hire.
 
 - 🌱 I’m always learning new tech 
-- 💬 Ask me about tech stack experiences
+- 💬 Ask me about my tech stack experiences
 - 📫 Reach me at: **[gabnilshog@gmail.com]**
 - ⚡ Fun fact: Gaming soundtrack enthusiast
 
