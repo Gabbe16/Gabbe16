@@ -1,18 +1,18 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Gabriel 👋
 
 ## 👨‍💻 About Me
 
-I'm a [Your Job Title] with a passion for [your interests, e.g., building scalable web apps, solving data problems, contributing to open source].  
-Currently working at [Your Company] | [Freelancing/Available for Hire/Open Source Contributor].
+I'm a technical college graduate with a passion for software development and solving new and interesting problems.  
+Currently available for hire.
 
-- 🌱 I’m currently learning **[Tech/Tool]**
-- 💬 Ask me about **[Tech Stack or Area of Expertise]**
-- 📫 Reach me at: [Email] | [LinkedIn] | [Website]
-- ⚡ Fun fact: [Something interesting about you]
+- 🌱 I’m always learning new tech 
+- 💬 Ask me about tech stack experiences
+- 📫 Reach me at: **[gabnilshog@gmail.com]**
+- ⚡ Fun fact: Gaming soundtrack enthusiast
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack Experiences
 
 **Languages:**  
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)  
@@ -45,9 +45,7 @@ Currently working at [Your Company] | [Freelancing/Available for Hire/Open Sourc
 
 ## 📫 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile)  
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)  
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=flat&logo=vercel&logoColor=white)](https://yourportfolio.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile)
 
 ---
 
