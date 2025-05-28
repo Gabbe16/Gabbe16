@@ -5,8 +5,8 @@
 
 ## 👨‍💻 About Me
 
-I'm a [Your Job Title] with a passion for both software and web development.  
-Currently available for hire [Your Company] | [Freelancing/Available for Hire/Open Source Contributor].
+I'm a technical college graduate with a passion for both software and web development.  
+Currently available for hire.
 
 - 🌱 I’m currently learning
 - 💬 Ask me about
