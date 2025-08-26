@@ -3,12 +3,11 @@
 ## 👨‍💻 About Me
 
 I'm a technical college graduate with a passion for software development and solving new and interesting problems.  
-Currently available for hire.
+
 
 - 🌱 I’m always learning new tech 
 - 💬 Ask me about my tech stack experiences
 - 📫 Reach me at: **[gabnilshog@gmail.com]**
-- ⚡ Fun fact: Gaming soundtrack enthusiast
 
 ---
 
